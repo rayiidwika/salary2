@@ -82,10 +82,10 @@ export default function Navigation() {
       <div className="p-6 border-b border-slate-700">
         <div className="flex items-center gap-3">
           <div className="w-10 h-10 bg-teal-500 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-xl">S</span>
+            <span className="text-white font-bold text-xl">RS</span>
           </div>
           <h1 className="text-2xl font-bold">
-            <span className="text-white">Salary</span>
+            <span className="text-white">RaySalary</span>
             <span className="text-teal-400">App</span>
           </h1>
         </div>
